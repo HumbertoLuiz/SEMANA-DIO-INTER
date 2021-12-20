@@ -15,28 +15,28 @@
 
 ### Para executar o projeto no terminal, digite o seguinte comando:
 
-  # Clonar este repositório
+  Clonar este repositório
 
-  # Acessar a pasta do projeto
+  Acessar a pasta do projeto
 
-  ## Estando na pasta com os dois projetos, abrir dois consoles um para acessar a pasta backend-app e no outro console frontend-app
+  Estando na pasta com os dois projetos, abrir dois consoles um para acessar a pasta backend-app e no outro console frontend-app
   
-  # Ambas as pastas, rodar o comando -> 
+  Ambas as pastas, rodar o comando -> 
   ```bash
   yarn 
   ``` 
   
-  # Backend-app, Rodar o comando para subir a base de dados para o seu docker ->
+  Backend-app, Rodar o comando para subir a base de dados para o seu docker ->
   ```bash
   docker-compose up
   ``` 
   
-  # Backend-app, Rodar o comando ->
+  Backend-app, Rodar o comando ->
   ```bash
   npm run dev ou yarn dev
   ```
 
-  # Frontend-app, Rodar o comando ->
+  Frontend-app, Rodar o comando ->
   ```bash
   npm start ou yarn start
   ```
