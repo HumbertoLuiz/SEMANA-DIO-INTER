@@ -13,7 +13,7 @@
 * Gerenciamento de duas entidades(USER - PIX) a serem utilizadas pela aplicação;
 * Cadastro de usuários, login, transacões de valores via pix.
 
-### Para executar o projeto, digite o seguinte comando:
+### Para executar o projeto, siga conforme descrito abaixo:
 
   * Clonar este repositório
 
