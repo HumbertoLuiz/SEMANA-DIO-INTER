@@ -13,13 +13,13 @@
 * Gerenciamento de duas entidades(USER - PIX) a serem utilizadas pela aplicação;
 * Cadastro de usuários, login, transacões de valores via pix.
 
-### Para executar o projeto no terminal, digite o seguinte comando:
+### Para executar o projeto, digite o seguinte comando:
 
-  Clonar este repositório
+  * Clonar este repositório
 
-  Acessar a pasta do projeto
+  * Acessar a pasta do projeto
 
-  Estando na pasta com os dois projetos, abrir dois consoles um para acessar a pasta backend-app e no outro console frontend-app
+  * Estando na pasta com os dois projetos, abrir dois consoles um para acessar a pasta backend-app e no outro console frontend-app
   
   Ambas as pastas, rodar o comando -> 
   ```bash
