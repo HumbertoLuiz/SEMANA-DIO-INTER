@@ -2,9 +2,9 @@
 
 # APLICAÇÃO BACKEND E FRONTEND COM REACT
 
-EsTa aplicação foi realizada na semana de abertura do bootcamp ofertado pelo banco Inter junto com a plataforma Digital Inovationcom ela é possível cadastrar usuários, realizar o login, assim como também fazer transações de valores, transferências via chave pix gerada pela API. Postgres é o banco de dados utilizado para esse projeto. E toda a interface visual foi desenvolvida em React e Styled-Components abordando boas práticas de programação. :
+### Esta aplicação foi realizada na semana de abertura do bootcamp ofertado pelo banco Inter junto com a plataforma Digital Inovation One.
 
-Foram abordados os seguintes tópicos no curso:
+### Foram abordados os seguintes tópicos no curso:
 
 * Construção do Back-End com utilização de typescript e node-js;
 * Construção da Interface Visual (Front-End) com React e Styled-Components;
@@ -13,8 +13,7 @@ Foram abordados os seguintes tópicos no curso:
 * Gerenciamento de duas entidades(USER - PIX) a serem utilizadas pela aplicação;
 * Cadastro de usuários, login, transacões de valores via pix.
 
-Para executar o projeto no terminal, digite o seguinte comando:
-
+### Para executar o projeto no terminal, digite o seguinte comando:
 
   # Clonar este repositório
 
